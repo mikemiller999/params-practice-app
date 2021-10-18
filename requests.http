@@ -1,0 +1,6 @@
+POST http://localhost:3000/second.json
+Content-Type: application/json
+
+{
+  "hello": "hi"
+}
